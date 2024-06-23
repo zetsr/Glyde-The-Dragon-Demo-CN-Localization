@@ -1,0 +1,1 @@
+# Glyde-The-Dragon-Demo-CN-Localization
