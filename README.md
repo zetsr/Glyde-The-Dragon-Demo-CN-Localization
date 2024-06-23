@@ -5,14 +5,14 @@
 
 更新日志：
 
-    Version Test.0.1.0
+    Test Version 0.1.0
     +已添加对中文字体的支持
     +主菜单及设置菜单的文本以基本汉化完成
     +汉化了一部分游戏内的文本
 
 安装方法：
 
-    -解压缩，复制该文件目录下的Glyde文件夹
-    -定向到文件夹"X:\Steam\steamapps\common\Glyde The Dragon™ Demo"
+    -解压下载的全部压缩包，复制Glyde-ZH_p.pak
+    -定向到文件夹"X:\Steam\steamapps\common\Glyde The Dragon™ Demo\Glyde\Content\Paks"
     -在该目录的空白位置粘贴。
     -完成。
